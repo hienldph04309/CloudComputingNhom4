@@ -11,7 +11,7 @@
             <Fields>
                 <asp:BoundField DataField="MaDMSP" HeaderText="Mã Danh Mục Sản Phẩm" ReadOnly="True" SortExpression="MaDMSP" />
                 <asp:BoundField DataField="TenDMSP" HeaderText="Tên Danh Mục Sản Phẩm" SortExpression="TenDMSP" />
-                <asp:BoundField DataField="Ma_DanhMuc_Cha" HeaderText="Mã Danh Mục Cha" SortExpression="Ma_DanhMuc_Cha" />
+                <asp:BoundField DataField="Ma_DanhMuc_Cha" HeaderText="Mã Danh Mục Cha :" SortExpression="Ma_DanhMuc_Cha" />
                 <asp:CommandField ShowEditButton="True" ShowInsertButton="True" ShowDeleteButton="True" />
             </Fields>
             <FooterStyle BackColor="#CCCCCC" />
