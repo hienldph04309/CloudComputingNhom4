@@ -16,7 +16,7 @@
                 <br />
                 <h1>ADMIN SHOPPING WEBSITES </h1>              
             <p >Manager Your Website,Manager Product,Category,Customer,Purchare</p>
-                <a href="http://www.samsung.com/vn/galaxya/" style="text-decoration:none ; height:50px;width:100px;border:solid ;">Khám Phá</a>
+                <a href="http://localhost:47239/Product.aspx" style="text-decoration:none ; height:50px;width:100px;border:solid ;">Khám Phá</a>
             </div>
         </div>
     </ol>
